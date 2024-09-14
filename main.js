@@ -1,10 +1,10 @@
-//base by Limule Solitarus 
+//base by Demzzy Great 
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
+//YouTube: @Crypto_Demz
+//Instagram: Crypto_Demz
+//Telegram: t.me/Crypto_Demz
 //GitHub: @Limule3650
-//WhatsApp: +237698581946
+//WhatsApp: +2349091878122
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 require('./settings')
