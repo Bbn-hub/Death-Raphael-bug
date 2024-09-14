@@ -1,6 +1,6 @@
 {
     "name": "XBug-Bot",
-    "version": "6.0.0",
+    "version": "9.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
