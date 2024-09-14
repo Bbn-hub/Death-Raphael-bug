@@ -1,36 +1,36 @@
-//base by Limule Solitarus 
+//base by DEMZZY GREAT 
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237693538738
+//YouTube: @DEMZZY
+//Instagram: @Crypto_Demz
+//Telegram: t.me/Crypto_Demz
+//GitHub: @Bbn-hub
+//WhatsApp: +2347048641826
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
-global.location = "India, Rampur, city"
+global.ownernomer = "2347048641826"
+global.ownername = "🐉 ᕲᘿᘻᗱᗱᖻ🥇❤️‍🩹 Great"
+global.ytname = "YT: Demzzy"
+global.socialm = "GitHub: Bbn-hub"
+global.location = "Nigeria, Lagos, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber = 2347048641826'  //creator number
+global.ownername = '🐉 Demzzy Great' //owner name
+global.botname = 'DEMZZY Great-BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.author = 'Demzzy Great\n\nContact: +2347048641826'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "ᕲᘿᘻᗱᗱᖻ🥇❤️‍🩹 Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://chat.whatsapp.com/G8aBi0Y8KwIEaQr6KJnylc'
 
 //custom prefix
 global.prefa = ['','!','.','#','&','•']
@@ -60,10 +60,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'REMARK: This feature can be used by premium user only',
+    prem: 'REMARK: This feature can be used by premium user ᕲᘿᘻᗱᗱᖻ🥇❤️‍🩹',
     admin: 'REMARK: This feature can be used by admin only',
     botAdmin: 'REMARK: This feature can only be used when the bot is a group admin ',
-    owner: 'REMARK: This feature can be used by owner only',
+    owner: 'REMARK: This feature can be used by owner ᕲᘿᘻᗱᗱᖻ🥇❤️‍🩹',
     group: 'REMARK: This feature is only for groups',
     private: 'REMARK: This feature is only for private chats',
     wait: '処理中... ',    
